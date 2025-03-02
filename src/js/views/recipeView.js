@@ -142,5 +142,5 @@ ${ing.description}
   `;
   }
 }
-
+console.log('BUG');
 export default new RecipeView();
